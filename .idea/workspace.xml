@@ -1,114 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de03bc16-c853-42e5-8409-88dc9ceca5fd" name="默认的" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/index/controller/Aboutus.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/index/controller/Contact.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/index/controller/News.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/index/controller/Sample.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/demo1.iml" afterPath="$PROJECT_DIR$/.idea/demo1.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/application/admin/command/Install/fastadmin.sql" afterPath="$PROJECT_DIR$/application/admin/command/Install/fastadmin.sql" />
-      <change beforePath="$PROJECT_DIR$/application/admin/command/Min/r.js" afterPath="$PROJECT_DIR$/application/admin/command/Min/r.js" />
-      <change beforePath="$PROJECT_DIR$/application/admin/lang/zh-cn/dashboard.php" afterPath="$PROJECT_DIR$/application/admin/lang/zh-cn/dashboard.php" />
-      <change beforePath="$PROJECT_DIR$/application/admin/lang/zh-cn/index.php" afterPath="$PROJECT_DIR$/application/admin/lang/zh-cn/index.php" />
-      <change beforePath="$PROJECT_DIR$/application/config.php" afterPath="$PROJECT_DIR$/application/config.php" />
-      <change beforePath="$PROJECT_DIR$/application/index/controller/Index.php" afterPath="$PROJECT_DIR$/application/index/controller/Index.php" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/index/index.html" afterPath="$PROJECT_DIR$/application/index/view/index/index.html" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/show/index.html" afterPath="$PROJECT_DIR$/application/index/view/show/index.html" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/backend/dashboard.js" afterPath="$PROJECT_DIR$/public/assets/js/backend/dashboard.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/backend/index.js" afterPath="$PROJECT_DIR$/public/assets/js/backend/index.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/require-backend.min.js" afterPath="$PROJECT_DIR$/public/assets/js/require-backend.min.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/require.js" afterPath="$PROJECT_DIR$/public/assets/js/require.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/less/lesshat.less" afterPath="$PROJECT_DIR$/public/assets/less/lesshat.less" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/art-template/demo/node-template-express.js" afterPath="$PROJECT_DIR$/public/assets/libs/art-template/demo/node-template-express.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/art-template/demo/node-template.js" afterPath="$PROJECT_DIR$/public/assets/libs/art-template/demo/node-template.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/art-template/test/js/kissy.js" afterPath="$PROJECT_DIR$/public/assets/libs/art-template/test/js/kissy.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/art-template/test/test-node.js" afterPath="$PROJECT_DIR$/public/assets/libs/art-template/test/test-node.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/devbridge-autocomplete/typings/jquery/jquery.d.ts" afterPath="$PROJECT_DIR$/public/assets/libs/devbridge-autocomplete/typings/jquery/jquery.d.ts" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/dragsort/jquery.dragsort.js" afterPath="$PROJECT_DIR$/public/assets/libs/dragsort/jquery.dragsort.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-pjax/jquery.pjax.js" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-pjax/jquery.pjax.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-slimscroll/examples/libs/prettify/prettify.js" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-slimscroll/examples/libs/prettify/prettify.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/jquery-ui.js" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/jquery-ui.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/base/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/base/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/base/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/base/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/black-tie/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/black-tie/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/black-tie/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/black-tie/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/blitzer/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/blitzer/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/blitzer/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/blitzer/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/cupertino/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/cupertino/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/cupertino/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/cupertino/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/dark-hive/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/dark-hive/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/dark-hive/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/dark-hive/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/dot-luv/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/dot-luv/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/dot-luv/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/dot-luv/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/eggplant/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/eggplant/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/eggplant/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/eggplant/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/excite-bike/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/excite-bike/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/excite-bike/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/excite-bike/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/flick/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/flick/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/flick/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/flick/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/hot-sneaks/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/hot-sneaks/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/hot-sneaks/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/hot-sneaks/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/humanity/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/humanity/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/humanity/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/humanity/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/le-frog/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/le-frog/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/le-frog/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/le-frog/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/mint-choc/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/mint-choc/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/mint-choc/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/mint-choc/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/overcast/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/overcast/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/overcast/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/overcast/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/pepper-grinder/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/pepper-grinder/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/pepper-grinder/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/pepper-grinder/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/redmond/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/redmond/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/redmond/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/redmond/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/smoothness/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/smoothness/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/smoothness/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/smoothness/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/south-street/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/south-street/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/south-street/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/south-street/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/start/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/start/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/start/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/start/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/sunny/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/sunny/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/sunny/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/sunny/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/swanky-purse/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/swanky-purse/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/swanky-purse/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/swanky-purse/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/trontastic/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/trontastic/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/trontastic/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/trontastic/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/ui-darkness/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/ui-darkness/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/ui-darkness/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/ui-darkness/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/ui-lightness/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/ui-lightness/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/ui-lightness/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/ui-lightness/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/vader/jquery-ui.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/vader/jquery-ui.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/vader/theme.css" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/themes/vader/theme.css" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/ui/widget.js" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/ui/widget.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/ui/widgets/mouse.js" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/ui/widgets/mouse.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery-ui/ui/widgets/sortable.js" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-ui/ui/widgets/sortable.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery/dist/jquery.js" afterPath="$PROJECT_DIR$/public/assets/libs/jquery/dist/jquery.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery/external/sizzle/dist/sizzle.js" afterPath="$PROJECT_DIR$/public/assets/libs/jquery/external/sizzle/dist/sizzle.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery/src/event.js" afterPath="$PROJECT_DIR$/public/assets/libs/jquery/src/event.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jquery/src/serialize.js" afterPath="$PROJECT_DIR$/public/assets/libs/jquery/src/serialize.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jspdf/dist/jspdf.debug.js" afterPath="$PROJECT_DIR$/public/assets/libs/jspdf/dist/jspdf.debug.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jstree/dist/jstree.js" afterPath="$PROJECT_DIR$/public/assets/libs/jstree/dist/jstree.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jstree/src/jstree.dnd.js" afterPath="$PROJECT_DIR$/public/assets/libs/jstree/src/jstree.dnd.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/jstree/src/jstree.js" afterPath="$PROJECT_DIR$/public/assets/libs/jstree/src/jstree.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/plupload/js/moxie.js" afterPath="$PROJECT_DIR$/public/assets/libs/plupload/js/moxie.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/requirejs-plugins/lib/require.js" afterPath="$PROJECT_DIR$/public/assets/libs/requirejs-plugins/lib/require.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/requirejs-plugins/lib/text.js" afterPath="$PROJECT_DIR$/public/assets/libs/requirejs-plugins/lib/text.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/summernote/dist/summernote-bs4.js" afterPath="$PROJECT_DIR$/public/assets/libs/summernote/dist/summernote-bs4.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/summernote/dist/summernote-lite.js" afterPath="$PROJECT_DIR$/public/assets/libs/summernote/dist/summernote-lite.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/summernote/dist/summernote.js" afterPath="$PROJECT_DIR$/public/assets/libs/summernote/dist/summernote.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/summernote/src/js/base/core/dom.js" afterPath="$PROJECT_DIR$/public/assets/libs/summernote/src/js/base/core/dom.js" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/tableExport.jquery.plugin/tableExport.js" afterPath="$PROJECT_DIR$/public/assets/libs/tableExport.jquery.plugin/tableExport.js" />
-      <change beforePath="$PROJECT_DIR$/public/heizi/17.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/heizi/css/style.css" afterPath="$PROJECT_DIR$/public/heizi/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/public/heizi/default_2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/heizi/default_4.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/heizi/footer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/heizi/head.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/heizi/headNav.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/heizi/js/smoothscroll.js" afterPath="$PROJECT_DIR$/public/heizi/js/smoothscroll.js" />
-    </list>
+    <list default="true" id="de03bc16-c853-42e5-8409-88dc9ceca5fd" name="默认的" comment="" />
     <ignored path="demo1.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -160,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Aboutus.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Aboutus.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/index/controller/Aboutus.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -180,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/config.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="100" column="37" lean-forward="false" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
+              <caret line="100" column="16" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -386,17 +279,18 @@
       <option name="presentableId" value="Default" />
       <updated>1515225669530</updated>
       <workItem from="1515244653732" duration="30000" />
-      <workItem from="1515244691443" duration="6065000" />
+      <workItem from="1515244691443" duration="6744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6095000" />
+    <option name="totallyTimeSpent" value="6774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -489,14 +383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="100" column="37" lean-forward="false" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/index/view/news/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
@@ -549,6 +435,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="100" column="16" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="16" />
           <folding />
         </state>
       </provider>
