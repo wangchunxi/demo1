@@ -1,0 +1,5073 @@
+---------------------------------------------------------------
+[ 2018-01-04T03:06:44+08:00 ] 172.18.205.220 211.161.248.221 OPTIONS /ipc$
+[ info ] 119.23.233.18/ipc$ [运行时间：0.001784s][吞吐率：560.51req/s] [内存消耗：235.03kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000259s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ipc$',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '119.23.233.18',
+  'translate' => 'f',
+  'user-agent' => 'Microsoft-WebDAV-MiniRedir/6.1.7600',
+  'connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T05:58:53+08:00 ] 172.18.205.220 211.161.240.36 OPTIONS /ipc$
+[ info ] 119.23.233.18/ipc$ [运行时间：0.001731s][吞吐率：577.73req/s] [内存消耗：235.04kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000251s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ipc$',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '119.23.233.18',
+  'translate' => 'f',
+  'user-agent' => 'Microsoft-WebDAV-MiniRedir/6.1.7600',
+  'connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T10:28:34+08:00 ] 172.18.205.220 211.161.240.36 OPTIONS /ipc$
+[ info ] 119.23.233.18/ipc$ [运行时间：0.001807s][吞吐率：553.34req/s] [内存消耗：235.04kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000245s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ipc$',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '119.23.233.18',
+  'translate' => 'f',
+  'user-agent' => 'Microsoft-WebDAV-MiniRedir/6.1.7600',
+  'connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:53+08:00 ] 172.18.205.220 140.205.225.188 GET /
+[ info ] 119.23.233.18/ [运行时间：0.002325s][吞吐率：430.10req/s] [内存消耗：345.25kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000295s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip,deflate',
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'referer' => 'http://119.23.233.18/',
+  'host' => '119.23.233.18',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.p)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000077s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:56+08:00 ] 172.18.205.220 140.205.225.188 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001613s][吞吐率：619.91req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000236s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:56+08:00 ] 172.18.205.220 140.205.225.188 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001600s][吞吐率：624.99req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000246s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '51',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => '',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001511s][吞吐率：661.77req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000249s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001391s][吞吐率：718.82req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000198s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '55',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => 'root',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001368s][吞吐率：731.10req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000175s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001306s][吞吐率：765.66req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000204s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '56',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => '12345',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001403s][吞吐率：712.71req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000193s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001483s][吞吐率：674.33req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000215s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '57',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => '123456',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001261s][吞吐率：793.02req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000185s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001433s][吞吐率：697.89req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000216s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '58',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => 'test123',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001350s][吞吐率：740.65req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000195s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001341s][吞吐率：745.65req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000215s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '51',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => '',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001400s][吞吐率：714.29req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000192s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001527s][吞吐率：654.85req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000243s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '55',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => 'root',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:57+08:00 ] 172.18.205.220 140.205.225.188 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001566s][吞吐率：638.60req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000252s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:58+08:00 ] 172.18.205.220 140.205.225.188 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001558s][吞吐率：641.92req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000034s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000234s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '56',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => '12345',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:58+08:00 ] 172.18.205.220 140.205.225.188 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001601s][吞吐率：624.62req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000229s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:58+08:00 ] 172.18.205.220 140.205.225.188 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001272s][吞吐率：786.19req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000176s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '57',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => '123456',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:58+08:00 ] 172.18.205.220 140.205.225.188 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001276s][吞吐率：783.69req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000172s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:58+08:00 ] 172.18.205.220 140.205.225.188 GET /rs-status
+[ info ] 119.23.233.18:80/rs-status [运行时间：0.002645s][吞吐率：378.07req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000197s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'rs-status',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:22:58+08:00 ] 172.18.205.220 140.205.225.188 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001292s][吞吐率：774.00req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000143s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '58',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => 'test123',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:23:04+08:00 ] 172.18.205.220 140.205.225.188 GET /index.php
+[ info ] 119.23.233.18:80/index.php [运行时间：0.001903s][吞吐率：525.54req/s] [内存消耗：345.28kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000244s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000052s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:23:16+08:00 ] 172.18.205.220 140.205.225.188 GET /jobs/
+[ info ] 119.23.233.18:80/jobs/ [运行时间：0.001604s][吞吐率：623.50req/s] [内存消耗：235.22kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000235s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'jobs',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:23:31+08:00 ] 172.18.205.220 140.205.225.188 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.001847s][吞吐率：541.41req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000254s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000061s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:23:45+08:00 ] 172.18.205.220 140.205.225.188 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.001892s][吞吐率：528.52req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000247s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000055s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:23:46+08:00 ] 172.18.205.220 140.205.225.188 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.001931s][吞吐率：517.88req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000233s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000056s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:23:50+08:00 ] 172.18.205.220 140.205.225.188 GET /hwi/
+[ info ] 119.23.233.18:80/hwi/ [运行时间：0.001572s][吞吐率：636.18req/s] [内存消耗：235.22kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000228s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'hwi',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:06+08:00 ] 172.18.205.220 140.205.225.188 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.002010s][吞吐率：497.49req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000244s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000070s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:09+08:00 ] 172.18.205.220 140.205.225.188 POST /tckfgronjivu
+[ info ] 119.23.233.18:80/tckfgronjivu [运行时间：0.001686s][吞吐率：593.17req/s] [内存消耗：235.02kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000246s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tckfgronjivu',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.elasticsearch_unauthorized)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '22',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  '{"aliyun":_"vulntest"}' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:09+08:00 ] 172.18.205.220 140.205.225.188 GET /tckfgronjivu
+[ info ] 119.23.233.18:80/tckfgronjivu [运行时间：0.001302s][吞吐率：768.05req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000186s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tckfgronjivu',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.elasticsearch_unauthorized)',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:09+08:00 ] 172.18.205.220 140.205.225.188 DELETE /tckfgronjivu
+[ info ] 119.23.233.18:80/tckfgronjivu [运行时间：0.001494s][吞吐率：669.38req/s] [内存消耗：235.23kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000235s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'tckfgronjivu',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.elasticsearch_unauthorized)',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:17+08:00 ] 172.18.205.220 140.205.225.188 GET /master-status
+[ info ] 119.23.233.18:80/master-status [运行时间：0.001624s][吞吐率：615.72req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000236s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'master-status',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:18+08:00 ] 172.18.205.220 140.205.225.188 GET /dfshealth.html
+[ info ] 119.23.233.18:80/dfshealth.html [运行时间：0.001553s][吞吐率：643.89req/s] [内存消耗：235.25kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000234s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'dfshealth',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:22+08:00 ] 172.18.205.220 140.205.225.188 GET /http://119.23.233.18:8080
+[ info ] 119.23.233.18:80/http://119.23.233.18:8080 [运行时间：0.001630s][吞吐率：613.47req/s] [内存消耗：235.32kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000231s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'http:',
+    1 => '119.23.233.18:8080',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:23+08:00 ] 172.18.205.220 140.205.225.188 GET /http://119.23.233.18:8081
+[ info ] 119.23.233.18:80/http://119.23.233.18:8081 [运行时间：0.001684s][吞吐率：593.84req/s] [内存消耗：235.32kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000238s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'http:',
+    1 => '119.23.233.18:8081',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:26+08:00 ] 172.18.205.220 140.205.225.188 GET /http://119.23.233.18:8090
+[ info ] 119.23.233.18:80/http://119.23.233.18:8090 [运行时间：0.001614s][吞吐率：619.54req/s] [内存消耗：235.32kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000233s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'http:',
+    1 => '119.23.233.18:8090',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:28+08:00 ] 172.18.205.220 140.205.225.188 GET /clusters.jsf
+[ info ] 119.23.233.18:80/clusters.jsf [运行时间：0.001563s][吞吐率：639.77req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000239s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'clusters.jsf',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:32+08:00 ] 172.18.205.220 140.205.225.188 GET /about/
+[ info ] 119.23.233.18:80/about/ [运行时间：0.001584s][吞吐率：631.29req/s] [内存消耗：235.22kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000223s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'about',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:34+08:00 ] 172.18.205.220 140.205.225.188 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.001793s][吞吐率：557.75req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000225s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000049s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:38+08:00 ] 172.18.205.220 140.205.225.188 GET /jenkins/
+[ info ] 119.23.233.18:80/jenkins/ [运行时间：0.001620s][吞吐率：617.26req/s] [内存消耗：235.23kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000258s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'jenkins',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:39+08:00 ] 172.18.205.220 140.205.225.188 GET /zabbix/
+[ info ] 119.23.233.18:80/zabbix/ [运行时间：0.001577s][吞吐率：634.16req/s] [内存消耗：235.23kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000245s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'zabbix',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:39+08:00 ] 172.18.205.220 140.205.225.188 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.001853s][吞吐率：539.67req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000248s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000052s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:40+08:00 ] 172.18.205.220 140.205.225.188 GET /solr/
+[ info ] 119.23.233.18:80/solr/ [运行时间：0.001513s][吞吐率：660.94req/s] [内存消耗：235.22kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000220s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'solr',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:40+08:00 ] 172.18.205.220 140.205.225.188 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.001798s][吞吐率：556.20req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000233s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000049s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:24:44+08:00 ] 172.18.205.220 140.205.225.188 GET /info
+[ info ] 119.23.233.18:80/info [运行时间：0.001543s][吞吐率：648.07req/s] [内存消耗：235.19kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000236s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'info',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:25:03+08:00 ] 172.18.205.220 140.205.225.188 GET /warning
+[ info ] 119.23.233.18:80/warning [运行时间：0.001566s][吞吐率：638.60req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000251s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'warning',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:25:06+08:00 ] 172.18.205.220 140.205.225.188 GET /pleasereadthis
+[ info ] 119.23.233.18:80/pleasereadthis [运行时间：0.001534s][吞吐率：651.90req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000239s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pleasereadthis',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:25:09+08:00 ] 172.18.205.220 140.205.225.188 GET /please_read/_search
+[ info ] 119.23.233.18:80/please_read/_search [运行时间：0.001778s][吞吐率：562.47req/s] [内存消耗：235.29kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000262s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'please_read',
+    1 => '_search',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:25:14+08:00 ] 172.18.205.220 140.205.225.188 GET /dfshealth.jsp
+[ info ] 119.23.233.18:80/dfshealth.jsp [运行时间：0.001705s][吞吐率：586.53req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000256s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'dfshealth.jsp',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:25:14+08:00 ] 172.18.205.220 140.205.225.188 GET /hadoop/dfshealth.jsp
+[ info ] 119.23.233.18:80/hadoop/dfshealth.jsp [运行时间：0.001561s][吞吐率：640.65req/s] [内存消耗：235.29kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000233s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'hadoop',
+    1 => 'dfshealth.jsp',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:48:55+08:00 ] 172.18.205.220 183.12.103.187 GET /
+[ info ] 119.23.233.18/ [运行时间：0.002367s][吞吐率：422.47req/s] [内存消耗：346.78kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000269s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1514864804',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '119.23.233.18',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000063s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:49:07+08:00 ] 172.18.205.220 183.12.103.187 GET /show
+[ info ] 119.23.233.18/show [运行时间：0.001869s][吞吐率：535.06req/s] [内存消耗：236.91kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000276s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'show',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1514864804,1515052090; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1515052090',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '119.23.233.18',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:49:17+08:00 ] 172.18.205.220 183.12.103.187 GET /index/show
+[ info ] 119.23.233.18/index/show [运行时间：0.002140s][吞吐率：467.28req/s] [内存消耗：349.71kb] [文件加载：63]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000232s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'show',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1514864804,1515052090; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1515052090',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '119.23.233.18',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000049s ]
+[ info ] [ RUN ] app\index\controller\Show->index[ /data/demo/application/index/controller/Show.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/show/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:49:17+08:00 ] 172.18.205.220 183.12.103.187 GET /heizi/css/tt7.woff
+[ info ] 119.23.233.18/heizi/css/tt7.woff [运行时间：0.001592s][吞吐率：628.17req/s] [内存消耗：237.05kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000202s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'heizi',
+    1 => 'css',
+    2 => 'tt7.woff',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1514864804,1515052090; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1515052090',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://119.23.233.18/heizi/css/style.css',
+  'accept' => '*/*',
+  'origin' => 'http://119.23.233.18',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => '119.23.233.18',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:50:24+08:00 ] 172.18.205.220 183.3.255.28 GET /index/show?nsukey=Z3KCwvnd2DP3z3Y5fDvRXKxtI4FQ4OuX3c%2FLGrMFv39C%2BBweVBHfABRCsBE3EhCI9TEVZt4RzCUXqxtzwqzrqaGzFbTvtGomt520COW8vicdLHMwCfRJkXv08CE8oGtN4JzFxY%2Bx6yyxWFkE7S0KGaF%2Fg1cDe9RqLtHc8lqyxqtXSC2U%2BKx6M%2FXNivsYQ9DB%2BbGboSH9IK9l%2FMja81gWyA%3D%3D
+[ info ] 119.23.233.18/index/show?nsukey=Z3KCwvnd2DP3z3Y5fDvRXKxtI4FQ4OuX3c%2FLGrMFv39C%2BBweVBHfABRCsBE3EhCI9TEVZt4RzCUXqxtzwqzrqaGzFbTvtGomt520COW8vicdLHMwCfRJkXv08CE8oGtN4JzFxY%2Bx6yyxWFkE7S0KGaF%2Fg1cDe9RqLtHc8lqyxqtXSC2U%2BKx6M%2FXNivsYQ9DB%2BbGboSH9IK9l%2FMja81gWyA%3D%3D [运行时间：0.002413s][吞吐率：414.42req/s] [内存消耗：350.89kb] [文件加载：63]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000254s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'show',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-requestfrom' => '0',
+  'x-openshield' => '0',
+  'x-openfrequencylimit' => '0',
+  'x-busid' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.107 Safari/534.13',
+  'host' => '119.23.233.18',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'nsukey' => 'Z3KCwvnd2DP3z3Y5fDvRXKxtI4FQ4OuX3c/LGrMFv39C+BweVBHfABRCsBE3EhCI9TEVZt4RzCUXqxtzwqzrqaGzFbTvtGomt520COW8vicdLHMwCfRJkXv08CE8oGtN4JzFxY+x6yyxWFkE7S0KGaF/g1cDe9RqLtHc8lqyxqtXSC2U+Kx6M/XNivsYQ9DB+bGboSH9IK9l/Mja81gWyA==',
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000056s ]
+[ info ] [ RUN ] app\index\controller\Show->index[ /data/demo/application/index/controller/Show.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/show/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:50:24+08:00 ] 172.18.205.220 183.3.227.102 GET /index/show?nsukey=Z3KCwvnd2DP3z3Y5fDvRXKxtI4FQ4OuX3c%2FLGrMFv39C%2BBweVBHfABRCsBE3EhCI9TEVZt4RzCUXqxtzwqzrqaGzFbTvtGomt520COW8vicdLHMwCfRJkXv08CE8oGtN4JzFxY%2Bx6yyxWFkE7S0KGaF%2Fg1cDe9RqLtHc8lqyxqtXSC2U%2BKx6M%2FXNivsYQ9DB%2BbGboSH9IK9l%2FMja81gWyA%3D%3D
+[ info ] 119.23.233.18/index/show?nsukey=Z3KCwvnd2DP3z3Y5fDvRXKxtI4FQ4OuX3c%2FLGrMFv39C%2BBweVBHfABRCsBE3EhCI9TEVZt4RzCUXqxtzwqzrqaGzFbTvtGomt520COW8vicdLHMwCfRJkXv08CE8oGtN4JzFxY%2Bx6yyxWFkE7S0KGaF%2Fg1cDe9RqLtHc8lqyxqtXSC2U%2BKx6M%2FXNivsYQ9DB%2BbGboSH9IK9l%2FMja81gWyA%3D%3D [运行时间：0.002349s][吞吐率：425.69req/s] [内存消耗：334.72kb] [文件加载：61]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000240s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'show',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'useragent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36',
+  'host' => '119.23.233.18',
+  'connection' => 'close',
+  'accept-language' => 'en-us,en',
+  'accept-encoding' => 'gzip',
+  'accept-charset' => 'iso-8859-1,*,utf-8',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'nsukey' => 'Z3KCwvnd2DP3z3Y5fDvRXKxtI4FQ4OuX3c/LGrMFv39C+BweVBHfABRCsBE3EhCI9TEVZt4RzCUXqxtzwqzrqaGzFbTvtGomt520COW8vicdLHMwCfRJkXv08CE8oGtN4JzFxY+x6yyxWFkE7S0KGaF/g1cDe9RqLtHc8lqyxqtXSC2U+Kx6M/XNivsYQ9DB+bGboSH9IK9l/Mja81gWyA==',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000057s ]
+[ info ] [ RUN ] app\index\controller\Show->index[ /data/demo/application/index/controller/Show.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/show/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:50:24+08:00 ] 172.18.205.220 112.96.179.125 GET /index/show?nsukey=Z3KCwvnd2DP3z3Y5fDvRXKxtI4FQ4OuX3c%2FLGrMFv39C%2BBweVBHfABRCsBE3EhCI9TEVZt4RzCUXqxtzwqzrqaGzFbTvtGomt520COW8vicdLHMwCfRJkXv08CE8oGtN4JzFxY%2Bx6yyxWFkE7S0KGaF%2Fg1cDe9RqLtHc8lqyxqtXSC2U%2BKx6M%2FXNivsYQ9DB%2BbGboSH9IK9l%2FMja81gWyA%3D%3D
+[ info ] 119.23.233.18/index/show?nsukey=Z3KCwvnd2DP3z3Y5fDvRXKxtI4FQ4OuX3c%2FLGrMFv39C%2BBweVBHfABRCsBE3EhCI9TEVZt4RzCUXqxtzwqzrqaGzFbTvtGomt520COW8vicdLHMwCfRJkXv08CE8oGtN4JzFxY%2Bx6yyxWFkE7S0KGaF%2Fg1cDe9RqLtHc8lqyxqtXSC2U%2BKx6M%2FXNivsYQ9DB%2BbGboSH9IK9l%2FMja81gWyA%3D%3D [运行时间：0.002134s][吞吐率：468.64req/s] [内存消耗：351.14kb] [文件加载：63]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000245s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'show',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/wxpic,image/sharpp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; SM-G9300 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043632 Safari/537.36 MicroMessenger/6.5.13.1100 NetType/4G Language/zh_CN',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '119.23.233.18',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'nsukey' => 'Z3KCwvnd2DP3z3Y5fDvRXKxtI4FQ4OuX3c/LGrMFv39C+BweVBHfABRCsBE3EhCI9TEVZt4RzCUXqxtzwqzrqaGzFbTvtGomt520COW8vicdLHMwCfRJkXv08CE8oGtN4JzFxY+x6yyxWFkE7S0KGaF/g1cDe9RqLtHc8lqyxqtXSC2U+Kx6M/XNivsYQ9DB+bGboSH9IK9l/Mja81gWyA==',
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000058s ]
+[ info ] [ RUN ] app\index\controller\Show->index[ /data/demo/application/index/controller/Show.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/show/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T15:50:25+08:00 ] 172.18.205.220 112.96.179.125 GET /heizi/css/tt7.woff
+[ info ] 119.23.233.18/heizi/css/tt7.woff [运行时间：0.001843s][吞吐率：542.60req/s] [内存消耗：237.02kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000260s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'heizi',
+    1 => 'css',
+    2 => 'tt7.woff',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://119.23.233.18/heizi/css/style.css',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; SM-G9300 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043632 Safari/537.36 MicroMessenger/6.5.13.1100 NetType/4G Language/zh_CN',
+  'origin' => 'http://119.23.233.18',
+  'connection' => 'keep-alive',
+  'host' => '119.23.233.18',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T17:56:08+08:00 ] 172.18.205.220 71.6.146.185 GET /
+[ info ] 119.23.233.18/ [运行时间：0.002110s][吞吐率：473.93req/s] [内存消耗：345.18kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000271s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'identity',
+  'host' => '119.23.233.18',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000059s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T17:56:10+08:00 ] 172.18.205.220 71.6.146.185 GET /sitemap.xml
+[ info ] 119.23.233.18/sitemap.xml [运行时间：0.001633s][吞吐率：612.40req/s] [内存消耗：233.38kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000230s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'sitemap.xml',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'identity',
+  'host' => '119.23.233.18',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:19:23+08:00 ] 172.18.205.220 140.205.201.47 GET /
+[ info ] 119.23.233.18/ [运行时间：0.002175s][吞吐率：459.75req/s] [内存消耗：345.25kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000247s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip,deflate',
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'referer' => 'http://119.23.233.18/',
+  'host' => '119.23.233.18',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.p)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000056s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:20:40+08:00 ] 172.18.205.220 140.205.201.47 GET /rs-status
+[ info ] 119.23.233.18:80/rs-status [运行时间：0.001740s][吞吐率：574.72req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000249s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'rs-status',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:04+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001935s][吞吐率：516.79req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000275s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:04+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001572s][吞吐率：636.08req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000231s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '51',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => '',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:04+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001436s][吞吐率：696.38req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000199s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:04+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001384s][吞吐率：722.53req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000197s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '55',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => 'root',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:04+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001521s][吞吐率：657.41req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000223s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001634s][吞吐率：612.04req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000249s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '56',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => '12345',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001481s][吞吐率：675.19req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000233s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001556s][吞吐率：642.61req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000240s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '57',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => '123456',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001478s][吞吐率：676.61req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000213s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001524s][吞吐率：656.18req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000034s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000234s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '58',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => 'test123',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001509s][吞吐率：662.71req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000218s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001474s][吞吐率：678.47req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000228s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '51',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => '',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001312s][吞吐率：762.19req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000192s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001455s][吞吐率：687.37req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000208s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '55',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => 'root',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001499s][吞吐率：667.14req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000208s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001382s][吞吐率：723.65req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000199s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '56',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => '12345',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001438s][吞吐率：695.46req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000200s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:05+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001452s][吞吐率：688.72req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000208s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '57',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => '123456',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:06+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001531s][吞吐率：653.22req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000237s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:22:06+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001489s][吞吐率：671.63req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000217s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '58',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => 'test123',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:29:22+08:00 ] 172.18.205.220 140.205.201.47 GET /index.php
+[ info ] 119.23.233.18:80/index.php [运行时间：0.002199s][吞吐率：454.72req/s] [内存消耗：345.28kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000267s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000080s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:33:00+08:00 ] 172.18.205.220 140.205.201.47 GET /jobs/
+[ info ] 119.23.233.18:80/jobs/ [运行时间：0.001748s][吞吐率：572.05req/s] [内存消耗：235.22kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000248s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'jobs',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:37:46+08:00 ] 172.18.205.220 140.205.201.47 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.002032s][吞吐率：492.12req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000250s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000073s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:41:16+08:00 ] 172.18.205.220 140.205.201.47 POST /gyfsiwjvckuz
+[ info ] 119.23.233.18:80/gyfsiwjvckuz [运行时间：0.001804s][吞吐率：554.36req/s] [内存消耗：235.02kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000283s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'gyfsiwjvckuz',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.elasticsearch_unauthorized)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '22',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  '{"aliyun":_"vulntest"}' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:41:17+08:00 ] 172.18.205.220 140.205.201.47 GET /gyfsiwjvckuz
+[ info ] 119.23.233.18:80/gyfsiwjvckuz [运行时间：0.001462s][吞吐率：684.00req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000204s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'gyfsiwjvckuz',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.elasticsearch_unauthorized)',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:41:17+08:00 ] 172.18.205.220 140.205.201.47 DELETE /gyfsiwjvckuz
+[ info ] 119.23.233.18:80/gyfsiwjvckuz [运行时间：0.001574s][吞吐率：635.31req/s] [内存消耗：235.23kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000247s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'gyfsiwjvckuz',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.elasticsearch_unauthorized)',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T19:59:23+08:00 ] 172.18.205.220 140.205.201.47 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.002022s][吞吐率：494.61req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000267s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000056s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T20:05:02+08:00 ] 172.18.205.220 140.205.201.47 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.002346s][吞吐率：426.25req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000280s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000062s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T20:08:50+08:00 ] 172.18.205.220 140.205.201.47 GET /hwi/
+[ info ] 119.23.233.18:80/hwi/ [运行时间：0.001812s][吞吐率：551.88req/s] [内存消耗：235.22kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000266s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'hwi',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T20:24:37+08:00 ] 172.18.205.220 140.205.201.47 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.002056s][吞吐率：486.41req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000249s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000057s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T20:48:34+08:00 ] 172.18.205.220 140.205.201.47 GET /master-status
+[ info ] 119.23.233.18:80/master-status [运行时间：0.001786s][吞吐率：559.91req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000271s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'master-status',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T20:50:27+08:00 ] 172.18.205.220 140.205.201.47 GET /dfshealth.html
+[ info ] 119.23.233.18:80/dfshealth.html [运行时间：0.001746s][吞吐率：572.76req/s] [内存消耗：235.25kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000261s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'dfshealth',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:30+08:00 ] 172.18.205.220 140.205.225.201 GET /
+[ info ] 119.23.233.18/ [运行时间：0.002094s][吞吐率：477.55req/s] [内存消耗：345.25kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000278s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip,deflate',
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'referer' => 'http://119.23.233.18/',
+  'host' => '119.23.233.18',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.p)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000059s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:45+08:00 ] 172.18.205.220 140.205.225.201 GET /rs-status
+[ info ] 119.23.233.18:80/rs-status [运行时间：0.001591s][吞吐率：628.55req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000230s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'rs-status',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:55+08:00 ] 172.18.205.220 140.205.225.201 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001655s][吞吐率：604.19req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000236s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:55+08:00 ] 172.18.205.220 140.205.225.201 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001563s][吞吐率：639.86req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000227s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '51',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => '',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:55+08:00 ] 172.18.205.220 140.205.225.201 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001396s][吞吐率：716.36req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000210s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:55+08:00 ] 172.18.205.220 140.205.225.201 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001424s][吞吐率：702.21req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000236s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '55',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => 'root',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:55+08:00 ] 172.18.205.220 140.205.225.201 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001525s][吞吐率：655.77req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000235s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:55+08:00 ] 172.18.205.220 140.205.225.201 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001451s][吞吐率：689.17req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000202s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '56',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => '12345',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:55+08:00 ] 172.18.205.220 140.205.225.201 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001340s][吞吐率：746.18req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000181s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:55+08:00 ] 172.18.205.220 140.205.225.201 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001372s][吞吐率：728.94req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000189s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '57',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => '123456',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:55+08:00 ] 172.18.205.220 140.205.225.201 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001467s][吞吐率：681.67req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000222s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:56+08:00 ] 172.18.205.220 140.205.225.201 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001500s][吞吐率：666.61req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000213s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '58',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => 'test123',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:56+08:00 ] 172.18.205.220 140.205.225.201 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001503s][吞吐率：665.34req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000241s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:56+08:00 ] 172.18.205.220 140.205.225.201 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001484s][吞吐率：673.89req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000227s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '51',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => '',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:56+08:00 ] 172.18.205.220 140.205.225.201 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001343s][吞吐率：744.60req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000179s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:56+08:00 ] 172.18.205.220 140.205.225.201 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001575s][吞吐率：634.92req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000222s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '55',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => 'root',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:56+08:00 ] 172.18.205.220 140.205.225.201 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001509s][吞吐率：662.71req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000220s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:56+08:00 ] 172.18.205.220 140.205.225.201 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001456s][吞吐率：686.92req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000201s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '56',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => '12345',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:56+08:00 ] 172.18.205.220 140.205.225.201 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001320s][吞吐率：757.64req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000195s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:56+08:00 ] 172.18.205.220 140.205.225.201 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001570s][吞吐率：636.95req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000234s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '57',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => '123456',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:56+08:00 ] 172.18.205.220 140.205.225.201 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001423s][吞吐率：702.80req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000204s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:24:56+08:00 ] 172.18.205.220 140.205.225.201 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001441s][吞吐率：693.96req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000217s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '58',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => 'test123',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:25:10+08:00 ] 172.18.205.220 140.205.225.201 GET /index.php
+[ info ] 119.23.233.18:80/index.php [运行时间：0.001823s][吞吐率：548.56req/s] [内存消耗：345.28kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000239s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000053s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:26:26+08:00 ] 172.18.205.220 140.205.225.201 GET /jobs/
+[ info ] 119.23.233.18:80/jobs/ [运行时间：0.001777s][吞吐率：562.77req/s] [内存消耗：235.22kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000258s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'jobs',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:27:45+08:00 ] 172.18.205.220 140.205.225.201 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.002051s][吞吐率：487.60req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000026s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000254s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000057s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:28:50+08:00 ] 172.18.205.220 140.205.225.201 POST /qrvfgdjzuphl
+[ info ] 119.23.233.18:80/qrvfgdjzuphl [运行时间：0.001754s][吞吐率：570.11req/s] [内存消耗：235.02kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000269s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'qrvfgdjzuphl',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.elasticsearch_unauthorized)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '22',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  '{"aliyun":_"vulntest"}' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:28:50+08:00 ] 172.18.205.220 140.205.225.201 GET /qrvfgdjzuphl
+[ info ] 119.23.233.18:80/qrvfgdjzuphl [运行时间：0.001452s][吞吐率：688.72req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000202s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'qrvfgdjzuphl',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.elasticsearch_unauthorized)',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:28:50+08:00 ] 172.18.205.220 140.205.225.201 DELETE /qrvfgdjzuphl
+[ info ] 119.23.233.18:80/qrvfgdjzuphl [运行时间：0.001498s][吞吐率：667.56req/s] [内存消耗：235.23kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000234s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'qrvfgdjzuphl',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378.elasticsearch_unauthorized)',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:28:54+08:00 ] 172.18.205.220 140.205.225.201 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.001844s][吞吐率：542.32req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000235s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000058s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:29:03+08:00 ] 172.18.205.220 140.205.225.201 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.001779s][吞吐率：562.09req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000248s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000049s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:29:23+08:00 ] 172.18.205.220 140.205.225.201 GET /hwi/
+[ info ] 119.23.233.18:80/hwi/ [运行时间：0.001525s][吞吐率：655.67req/s] [内存消耗：235.22kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000229s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'hwi',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:29:59+08:00 ] 172.18.205.220 140.205.225.201 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.002061s][吞吐率：485.17req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000239s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000060s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:31:22+08:00 ] 172.18.205.220 140.205.225.201 GET /http://119.23.233.18:8080
+[ info ] 119.23.233.18:80/http://119.23.233.18:8080 [运行时间：0.001754s][吞吐率：570.11req/s] [内存消耗：235.32kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000029s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000245s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'http:',
+    1 => '119.23.233.18:8080',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:31:45+08:00 ] 172.18.205.220 140.205.225.201 GET /http://119.23.233.18:8081
+[ info ] 119.23.233.18:80/http://119.23.233.18:8081 [运行时间：0.001656s][吞吐率：603.84req/s] [内存消耗：235.32kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000267s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'http:',
+    1 => '119.23.233.18:8081',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:31:49+08:00 ] 172.18.205.220 140.205.225.201 GET /http://119.23.233.18:8090
+[ info ] 119.23.233.18:80/http://119.23.233.18:8090 [运行时间：0.001530s][吞吐率：653.62req/s] [内存消耗：235.32kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000228s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'http:',
+    1 => '119.23.233.18:8090',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:32:36+08:00 ] 172.18.205.220 140.205.225.201 GET /clusters.jsf
+[ info ] 119.23.233.18:80/clusters.jsf [运行时间：0.001749s][吞吐率：571.74req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000242s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'clusters.jsf',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:32:50+08:00 ] 172.18.205.220 140.205.225.201 GET /about/
+[ info ] 119.23.233.18:80/about/ [运行时间：0.001605s][吞吐率：623.04req/s] [内存消耗：235.22kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000251s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'about',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:33:28+08:00 ] 172.18.205.220 140.205.225.201 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.002136s][吞吐率：468.17req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000254s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000065s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:33:34+08:00 ] 172.18.205.220 140.205.225.201 GET /jenkins/
+[ info ] 119.23.233.18:80/jenkins/ [运行时间：0.001508s][吞吐率：663.13req/s] [内存消耗：235.23kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000209s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'jenkins',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:33:42+08:00 ] 172.18.205.220 140.205.225.201 GET /zabbix/
+[ info ] 119.23.233.18:80/zabbix/ [运行时间：0.001885s][吞吐率：530.52req/s] [内存消耗：235.23kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000278s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'zabbix',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:33:42+08:00 ] 172.18.205.220 140.205.225.201 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.001788s][吞吐率：559.32req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000226s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000049s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:33:43+08:00 ] 172.18.205.220 140.205.225.201 GET /solr/
+[ info ] 119.23.233.18:80/solr/ [运行时间：0.001536s][吞吐率：650.99req/s] [内存消耗：235.22kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000238s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'solr',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:33:43+08:00 ] 172.18.205.220 140.205.225.201 GET /
+[ info ] 119.23.233.18:80/ [运行时间：0.001721s][吞吐率：581.09req/s] [内存消耗：345.22kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000231s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000048s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:33:50+08:00 ] 172.18.205.220 140.205.225.201 GET /info
+[ info ] 119.23.233.18:80/info [运行时间：0.001539s][吞吐率：649.78req/s] [内存消耗：235.19kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000225s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'info',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:34:06+08:00 ] 172.18.205.220 140.205.225.201 GET /warning
+[ info ] 119.23.233.18:80/warning [运行时间：0.001510s][吞吐率：662.19req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000240s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'warning',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:34:09+08:00 ] 172.18.205.220 140.205.225.201 GET /pleasereadthis
+[ info ] 119.23.233.18:80/pleasereadthis [运行时间：0.001561s][吞吐率：640.65req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000246s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pleasereadthis',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:34:14+08:00 ] 172.18.205.220 140.205.225.201 GET /please_read/_search
+[ info ] 119.23.233.18:80/please_read/_search [运行时间：0.001631s][吞吐率：613.11req/s] [内存消耗：235.29kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000237s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'please_read',
+    1 => '_search',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:34:18+08:00 ] 172.18.205.220 140.205.225.201 GET /dfshealth.jsp
+[ info ] 119.23.233.18:80/dfshealth.jsp [运行时间：0.001643s][吞吐率：608.66req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000046s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000241s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'dfshealth.jsp',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T21:34:18+08:00 ] 172.18.205.220 140.205.225.201 GET /hadoop/dfshealth.jsp
+[ info ] 119.23.233.18:80/hadoop/dfshealth.jsp [运行时间：0.001743s][吞吐率：573.70req/s] [内存消耗：235.29kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000253s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'hadoop',
+    1 => 'dfshealth.jsp',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380378)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:52:18+08:00 ] 172.18.205.220 140.205.201.47 GET /
+[ info ] 119.23.233.18/ [运行时间：0.002025s][吞吐率：493.85req/s] [内存消耗：345.25kb] [文件加载：64]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000249s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip,deflate',
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'referer' => 'http://119.23.233.18/',
+  'host' => '119.23.233.18',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.p)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000055s ]
+[ info ] [ LANG ] /data/demo/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/demo/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/demo/public/../application/index/view/index/index.html [ array (
+  0 => 'site',
+  1 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:55:25+08:00 ] 172.18.205.220 140.205.201.47 GET /rs-status
+[ info ] 119.23.233.18:80/rs-status [运行时间：0.001694s][吞吐率：590.33req/s] [内存消耗：235.20kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000248s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'rs-status',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'host' => '119.23.233.18:80',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379)',
+  'referer' => 'http://119.23.233.18/',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:39+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001873s][吞吐率：533.90req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000268s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:39+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001451s][吞吐率：689.17req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000213s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '51',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => '',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:39+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001395s][吞吐率：716.85req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000198s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:39+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001384s][吞吐率：722.66req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000199s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '55',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => 'root',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:39+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001311s][吞吐率：762.74req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000193s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:39+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001536s][吞吐率：651.09req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000239s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '56',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => '12345',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:39+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001534s][吞吐率：651.90req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000222s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:39+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001427s][吞吐率：700.80req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000205s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '57',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => '123456',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:39+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001453s][吞吐率：688.27req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000214s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:39+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001390s][吞吐率：719.31req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000192s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '58',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'root',
+  'pma_password' => 'test123',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:39+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001368s][吞吐率：730.97req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000211s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:39+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001522s][吞吐率：657.11req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000207s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '51',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => '',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:40+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001466s][吞吐率：682.22req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000204s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:40+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001393s][吞吐率：717.83req/s] [内存消耗：235.16kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000198s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '55',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => 'root',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:40+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001351s][吞吐率：740.26req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000201s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:40+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001404s][吞吐率：712.35req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000220s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '56',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => '12345',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:40+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001351s][吞吐率：740.26req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000175s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:40+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001392s][吞吐率：718.45req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000189s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '57',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => '123456',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:40+08:00 ] 172.18.205.220 140.205.201.47 GET /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001378s][吞吐率：725.66req/s] [内存消耗：235.09kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000205s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Python-urllib/2.6',
+  'connection' => 'close',
+  'host' => '119.23.233.18:80',
+  'accept-encoding' => 'identity',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-04T23:57:40+08:00 ] 172.18.205.220 140.205.201.47 POST /phpmyadmin/
+[ info ] 119.23.233.18:80/phpmyadmin/ [运行时间：0.001470s][吞吐率：680.23req/s] [内存消耗：235.18kb] [文件加载：53]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000236s ]
+[ info ] [ LANG ] /data/demo/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'phpmyadmin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.8380379.phpmyadmin_login_weak)',
+  'connection' => 'close',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => '119.23.233.18:80',
+  'content-length' => '58',
+  'accept-encoding' => 'identity',
+)
+[ info ] [ PARAM ] array (
+  'pma_username' => 'test',
+  'pma_password' => 'test123',
+  'server' => '1',
+  'lang' => 'zh_CN',
+)
+[ info ] [ LOG ] INIT File
