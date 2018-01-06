@@ -606,7 +606,7 @@ $.Widget.prototype = {
 					.apply( instance, arguments );
 			}
 
-			// Copy the guid so direct unbinding works
+			// Copy the guid so direct unbinding news
 			if ( typeof handler !== "string" ) {
 				handlerProxy.guid = handler.guid =
 					handler.guid || handlerProxy.guid || $.guid++;
@@ -9345,7 +9345,7 @@ var widgetsMouse = $.widget( "ui.mouse", {
 		var that = this,
 			btnIsLeft = ( event.which === 1 ),
 
-			// event.target.nodeName works around a bug in IE 8 with
+			// event.target.nodeName news around a bug in IE 8 with
 			// disabled inputs (#7620)
 			elIsCancel = ( typeof this.options.cancel === "string" && event.target.nodeName ?
 				$( event.target ).closest( this.options.cancel ).length : false );
@@ -15598,7 +15598,7 @@ var widgetsSortable = $.widget( "ui.sortable", $.ui.mouse, {
 			}
 
 			// Only put the placeholder inside the current Container, skip all
-			// items from other containers. This works because when moving
+			// items from other containers. This news because when moving
 			// an item from one container to another the
 			// currentContainer is switched before the placeholder is moved.
 			//

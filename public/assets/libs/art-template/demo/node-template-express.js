@@ -24,15 +24,15 @@ var demoData = {
     },
     {
       title: '广东副县长疑因抛弃情妇遭6女子围殴 纪检调查',
-      url: 'http://news.qq.com/a/20130326/001254.htm'
+      url: 'http://sample.qq.com/a/20130326/001254.htm'
     },
     {
       title: '湖南27岁副县长回应质疑：父亲已不是领导',
-      url: 'http://news.qq.com/a/20130326/000959.htm'
+      url: 'http://sample.qq.com/a/20130326/000959.htm'
     },
     {
       title: '朝军进入战斗工作状态 称随时准备导弹攻击美国',
-      url: 'http://news.qq.com/a/20130326/001307.htm'
+      url: 'http://sample.qq.com/a/20130326/001307.htm'
     }
   ]
 };

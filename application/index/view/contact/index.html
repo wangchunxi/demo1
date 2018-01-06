@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+    <!--引入头部start-->
+    {include file="public/head" /}
+    <!--引入头部end-->
+    <body>
+        <div class="second_page_b"> </div>
+        <!--引入菜单 start-->
+        {include file="public/headNav" /}
+        <!--引入菜单 end-->
+        <div class="h_100"></div>
+        <div class="contact_ second_page_b">
+            <img src="{$Think.HZ}/picture/3.jpg">
+        </div>
+        <div class="content">
+            <div class="second_page">            
+                <div class="side_contact">
+                    <div class="side_box">
+                        <div class="section_title_1">
+                            <p>联系/CONTACT</p>
+                        </div>
+                        <div class="contact_mini_text">
+                            <p>
+                                欢迎任何形式的媒体与商务合作,<br />
+                                深入的了解，有利于为您提供更优质的服务<br />
+                                腾讯QQ：9490489<br />
+                                邮  箱：9490489@qq.com<br />
+                                地  址：江苏省南京市玄武区玄武湖<br />
+                                邮  编：570000
+                            </p>                    
+                        </div>
+                    </div>
+                    <div class="form">
+                        <div class="section_title_1">
+                            <p>给我们留言</p>
+                        </div>                        
+                        <form id="myform" action="/plus/diy.php" enctype="multipart/form-data" method="post" >
+                            <input type="hidden" name="action" value="post" />
+                            <input type="hidden" name="diyid" value="1" />
+                            <input type="hidden" name="do" value="2" />
+                            <dl>
+                                <dt>您的称呼</dt>
+                                <dd><input id="name" type="text" name="xm" class="formText"></dd>
+                            </dl>
+                            <dl>
+                                <dt>您的邮箱<small>(必填)</small></dt>
+                                <dd><input id="email" type="text" name="yx" class="formText"></dd>
+                            </dl>
+                            <dl style="width:100%">
+                                <dt>您的想法/意见<small>(必填)</small></dt>
+                                <dd><textarea id="message" name="nr" class="formText" ></textarea></dd>
+                            </dl><input type="hidden" name="dede_fields" value="xm,text;yx,text;nr,multitext" />
+                            <input type="hidden" name="dede_fieldshash" value="87ba26fe5c1cd886f528d6407a3eb5d9" />
+                            <div class="formBtn">
+                                <button id="sendbtn" type="submit">发送留言</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        <!-- second_page-end -->
+        </div>
+    <!--引入尾部start-->
+        {include file="public/footer" /}
+    <!--引入尾部end-->
+    </body>
+</html>

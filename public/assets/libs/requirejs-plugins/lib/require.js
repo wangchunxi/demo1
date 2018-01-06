@@ -1349,7 +1349,7 @@ var requirejs, require, define;
 
                         //If require|exports|module are requested, get the
                         //value for them from the special handlers. Caveat:
-                        //this only works while module is being defined.
+                        //this only news while module is being defined.
                         if (relMap && hasProp(handlers, deps)) {
                             return handlers[deps](registry[relMap.id]);
                         }

@@ -666,8 +666,8 @@
 
     /**
      * blank HTML for cursor position
-     * - [workaround] old IE only works with &nbsp;
-     * - [workaround] IE11 and other browser works with bogus br
+     * - [workaround] old IE only news with &nbsp;
+     * - [workaround] IE11 and other browser news with bogus br
      */
     var blankHTML = agent.isMSIE && agent.browserVersion < 11 ? '&nbsp;' : '<br>';
 

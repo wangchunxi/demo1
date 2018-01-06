@@ -1077,7 +1077,7 @@
                 if ( teOptions.onTable($(this), defaults) === false )
                   return true; // continue to next iteration step (table)
 
-              // each table works with an own copy of AutoTable options
+              // each table news with an own copy of AutoTable options
               defaults.jspdf.autotable.tableExport = null;  // avoid deep recursion error
               var atOptions                        = $.extend(true, {}, defaults.jspdf.autotable);
               defaults.jspdf.autotable.tableExport = teOptions;

@@ -107,11 +107,11 @@ define(['jquery', 'bootstrap', 'backend', 'addtabs', 'table', 'echarts', 'echart
 
             //读取FastAdmin的更新信息
             $.ajax({
-                url: Config.fastadmin.api_url + '/news/index',
+                url: Config.fastadmin.api_url + '/sample/index',
                 type: 'post',
                 dataType: 'jsonp',
                 success: function (ret) {
-                    $("#news-list").html(Template("newstpl", {news: ret.newslist}));
+                    $("#sample-list").html(Template("newstpl", {news: ret.newslist}));
                 }
             });
             $.ajax({

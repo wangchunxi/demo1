@@ -33,7 +33,7 @@ return [
     'Wipe cache failed'                                          => '清除缓存失败',
     'Wipe cache'                                                 => '清空缓存',
     'Check for updates'                                          => '检测更新',
-    'Latest news'                                                => '最新消息',
+    'Latest sample'                                                => '最新消息',
     'View more'                                                  => '查看更多',
     'Links'                                                      => '相关链接',
     'Docs'                                                       => '官方文档',

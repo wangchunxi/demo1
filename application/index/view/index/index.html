@@ -1,217 +1,136 @@
-<!DOCTYPE html>
-<html>
-
-    <head>
-
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="">
-        <meta name="author" content="">
-
-        <title>FastAdmin - 基于ThinkPHP5和Bootstrap的极速后台开发框架</title>
-
-        <!-- Bootstrap Core CSS -->
-        <link href="//cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-        <link href="__CDN__/assets/css/index.css" rel="stylesheet">
-
-        <!-- Plugin CSS -->
-        <link href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-        <link href="//cdn.bootcss.com/simple-line-icons/2.4.1/css/simple-line-icons.min.css" rel="stylesheet">
-
-        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="//cdn.bootcss.com/html5shiv/3.7.0/html5shiv.min.js"></script>
-            <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
-    </head>
-
-    <body id="page-top">
-
-        <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu">
-                        <span class="sr-only">Toggle navigation</span><i class="fa fa-bars"></i>
-                    </button>
-                    <a class="navbar-brand page-scroll" href="#page-top"><img src="__CDN__/assets/img/logo.png" style="width:200px;" alt=""></a>
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+    <!--引入头部start-->
+      {include file="public/head" /}
+    <!--引入头部end-->
+    <body>
+        <!-- 幻灯片开始 -->
+        <div class="slider"> 
+            <div class="item" style="background-image: url({$Think.HZ}/images/1-16092g515190-l.jpg)"><a href="{$Think.HZ}/javascript:;"></a></div>
+            <div class="item" style="background-image: url({$Think.HZ}/images/1-16092g514590-l.jpg)"><a href="{$Think.HZ}/javascript:;"></a></div>
+            <div class="item" style="background-image: url({$Think.HZ}/images/1-16092g514380-l.jpg)"><a href="{$Think.HZ}/javascript:;"></a></div>
+            <div class="item" style="background-image: url({$Think.HZ}/images/1-16092g514190-l.jpg)"><a href="{$Think.HZ}/javascript:;"></a></div>
+            <div class="item" style="background-image: url({$Think.HZ}/images/1-16092g513550-l.jpg)"><a href="{$Think.HZ}/javascript:;"></a></div>
+        </div>
+        <!-- 幻灯片结束 -->
+        <!--引入菜单 start-->
+        {include file="public/headNav" /}
+        <!--引入菜单 end-->
+        <div class="h_100"></div>
+        <div class="content">
+            <div class="section home">
+                <div class="section_title_1" data-scroll-reveal>
+                    <p>Welcome To Maker Cloud</p>
+                    <div class="setting"><p>服务项目</p></div>
                 </div>
-
-                <div class="collapse navbar-collapse" id="navbar-collapse-menu">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li><a href="http://www.fastadmin.net">首页</a></li>
-                        <li><a href="http://www.fastadmin.net/store.html" title="FastAdmin插件市场">插件市场</a></li>
-                        <li><a href="http://www.fastadmin.net/service.html" title="FastAdmin增值服务">服务</a></li>
-                        <li><a href="http://www.fastadmin.net/download.html" title="FastAdmin下载">下载</a></li>
-                        <li><a href="http://www.fastadmin.net/demo.html" title="FastAdmin演示">演示</a></li>
-                        <li><a href="http://forum.fastadmin.net" title="FastAdmin交流社区">社区</a></li>
-                        <li><a href="http://doc.fastadmin.net" title="FastAdmin官方文档">文档</a></li>
-                        <li><a href="http://html.fastadmin.net" title="FastAdmin的HTML版">HTML版</a></li>
-                    </ul>
+                <div class="service_box" data-scroll-reveal> <img src="{$Think.HZ}/picture/1-16092g522390-l.jpg">
+                    <div class="service_box_text">
+                        <h4>专业的数码转换</h4>
+                        <p>It’s a place full of beauty and experiences, experiences that become memories. Come and enjoy the beauty of the sea, the sky, the earth, the people and spend... <a href="{$Think.HZ}/a/guanyu/xiangmu/6.html">了解更多</a></p>
+                    </div>
                 </div>
-                <!-- /.navbar-collapse -->
+                <div class="service_box" data-scroll-reveal> <img src="{$Think.HZ}/picture/1-16092g523100-l.jpg">
+                    <div class="service_box_text">
+                        <h4>走向更美好的人生路径</h4>
+                        <p>Kassandra Bay Resort & Spa is a unique Resort Complex nestled within a timeless landscape by the sea and surrounded by nature in the beautiful island of Skiathos.... <a href="{$Think.HZ}/a/guanyu/xiangmu/7.html">了解更多</a></p>
+                    </div>
+                </div>
+                <div class="service_box" data-scroll-reveal> <img src="{$Think.HZ}/picture/1-16092g524370-l.jpg">
+                    <div class="service_box_text">
+                        <h4>百度云服务</h4>
+                        <p>Kassandra Bay Resort & Spa is perfectly located along the blue waters of Vasilias beach and surrounded by olive groves and lush gardens. The hotel is located 3km... <a href="{$Think.HZ}/a/guanyu/xiangmu/8.html">了解更多</a></p>
+                    </div>
+                </div>
             </div>
-            <!-- /.container-fluid -->
-        </nav>
+            <!-- section结束 -->
+            <!-- 关于 -->
+            <div class="section_2 home home_about">
+                <div class="bg_blur" style="background-image:url('{$Think.HZ}/images/about.jpg')" data-parallax-background-inertia="0.3"></div>
+                <div class="section_2_cell">
+                    <div class="section_2_left">
+                        <div class="section_title_2" data-scroll-reveal><p>关于/ABOUT</p>
+                            <div class="setting"><img src='{$Think.HZ}/picture/title1.png'/></div>
+                        </div>
+                        <div class="section_2_brief" data-scroll-reveal>
+                            <p>Photography摄影是不断成长并充满活力的摄影工作室， 从事创意婚纱、个性写真及商业广告拍摄等高端专业摄影业务。 时光荏苒，宽地从一间60平米的小店，发展到1500平米的大棚， 并成为无数名人及时尚杂志官方指定摄影工作室。</p>
+                        </div>
+                        <div class="btn_1"> <a href="{$Think.HZ}/a/guanyu/">了解详细</a></div>
+                    </div>
+                </div>
+            </div>
+        <!-- section2结束 -->
+         <!-- 画廊 -->
 
-        <header>
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="header-content">
-                            <div class="header-content-inner">
-                                <h1>FastAdmin</h1>
-                                <h3>基于ThinkPHP5和Bootstrap的极速后台开发框架</h3>
-                                <a href="{:url('admin/index/login')}" class="btn btn-outline btn-xl page-scroll">登录后台</a>
+            <div class="section home">
+                <div class="section_title_1" data-scroll-reveal="" data-scroll-reveal-id="7" data-scroll-reveal-initialized="true" data-scroll-reveal-complete="true">
+                    <p><img src="{$Think.HZ}/picture/title2.png"></p>
+                    <div class="setting">作品/GALLERY</div> </div>
+                <div class="gallery_list" data-scroll-reveal="" data-scroll-reveal-id="8" data-scroll-reveal-initialized="true" data-scroll-reveal-complete="true"> <div class="gallery_box"> <img src="{$Think.HZ}/picture/1-16092p041460-l.jpg"> <span>建筑摄影</span> <a href="{$Think.HZ}/a/zuopin/jzsy/17.html"></a> </div>
+                    <div class="gallery_box"> <img src="{$Think.HZ}/picture/1-16092h11t30-l.jpg"> <span>平面模特</span> <a href="{$Think.HZ}/a/zuopin/pmmt/16.html"></a> </div>
+                    <div class="gallery_box"> <img src="{$Think.HZ}/picture/1-16092h11j90-l.jpg"> <span>平面模特</span> <a href="{$Think.HZ}/a/zuopin/pmmt/15.html"></a> </div>
+                    <div class="gallery_box"> <img src="{$Think.HZ}/picture/1-16092h11a20-l.jpg"> <span>平面模特</span> <a href="{$Think.HZ}/a/zuopin/pmmt/14.html"></a> </div>
+                    <div class="gallery_box"> <img src="{$Think.HZ}/picture/1-16092h116000-l.jpg"> <span>平面模特</span> <a href="{$Think.HZ}/a/zuopin/pmmt/13.html"></a> </div>
+                    <div class="gallery_box"> <img src="{$Think.HZ}/picture/1-16092g615110-l.jpg"> <span>平面模特</span> <a href="{$Think.HZ}/a/zuopin/pmmt/11.html"></a> </div>
+                </div>
+                <div class="btn_2"><a href="{$Think.HZ}/a/zuopin/">查看更多</a></div>
+            </div>
+
+            <div class="section_2 bg_light home">
+                <div class="alpha_bg" style="background-image:url({$Think.HZ}/images/1.jpg)" data-parallax-background-inertia="0.2"></div>
+                <div class="section_2_cell">
+                    <div class="section_title_3" data-scroll-reveal>
+                        <p><img src='{$Think.HZ}/picture/title1.png'/></p>
+                        <div class="setting">资讯/NEWS</div> </div>
+                    <div id="news_slider" class="owl-carousel" data-scroll-reveal> <div class="list_item">
+                        <div class="list_text">
+                            <p class="time_1">2016-09-27</p>
+                            <a href="{$Think.HZ}/a/zixun/2016/0927/12.html">
+                                <p class="list_title">简约舒适的春日实穿方案</p>
+                            </a>
+                            <div class="list_brief">
+                                <p>褪去厚重的棉服和夹克，春天的到来你只需要一件浅色打底Tee，以及，一件简约的字母印花套头卫衣。Chino的随意舒适的属性也给整体搭配看起来清爽不少，Sneaker当然是标配，不然舒适...
                             </div>
+                            <div class="more_2"><a href="{$Think.HZ}/a/zixun/2016/0927/12.html">了解详细</a></div>
                         </div>
+                        <div class="list_img"><a href="{$Think.HZ}/a/zixun/2016/0927/12.html"><img src="{$Think.HZ}/picture/1-16092h113560-l.jpg"></a></div>
                     </div>
-                </div>
-            </div>
-        </header>
-
-        <section id="features" class="features">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 text-center">
-                        <div class="section-heading">
-                            <h2>功能特性</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <div class="feature-item">
-                                        <i class="icon-user text-primary"></i>
-                                        <h3>权限管理</h3>
-                                        <p class="text-muted">基于完善的Auth权限控制管理、无限父子级权限分组、可自由分配子级权限、一个管理员可同时属于多个组别</p>
-                                    </div>
+                        <!-- item-end -->
+                        <div class="list_item">
+                            <div class="list_text">
+                                <p class="time_1">2016-09-27</p>
+                                <a href="{$Think.HZ}/a/zixun/2016/0927/10.html">
+                                    <p class="list_title">Street Snap灰色初春的气息</p>
+                                </a>
+                                <div class="list_brief">
+                                    <p>如果说初春是万物复苏，太鲜艳太春天的颜色巴打驾驭不了，那么刚刚好的灰色给即将来临的暖春做了一道铺垫，一样不冷也不热的颜色穿上身上也会觉得十分舒适。 除了黑白两色，就...
                                 </div>
-                                <div class="col-md-4">
-                                    <div class="feature-item">
-                                        <i class="icon-screen-smartphone text-primary"></i>
-                                        <h3>响应式开发</h3>
-                                        <p class="text-muted">基于Bootstrap和AdminLTE进行二次开发,手机、平板、PC均自动适配,无需要担心兼容性问题</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="feature-item">
-                                        <i class="icon-present text-primary"></i>
-                                        <h3>多语言</h3>
-                                        <p class="text-muted">不仅仅后台开发支持多语言,同时视图部分和JS部分仍然共享同一个语言包,语法相同且自动加载</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="feature-item">
-                                        <i class="icon-layers text-primary"></i>
-                                        <h3>模块化开发</h3>
-                                        <p class="text-muted">控制器、模型、视图、JS一一对应,使用RequireJS进行JS模块化管理,采用Bower进行前端包组件管理</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="feature-item">
-                                        <i class="icon-docs text-primary"></i>
-                                        <h3>CRUD</h3>
-                                        <p class="text-muted">控制台进行一键生成控制器、模型、视图和JS文件,同时可一键生成后台权限节点和菜单栏</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="feature-item">
-                                        <i class="icon-puzzle text-primary"></i>
-                                        <h3>自由可扩展</h3>
-                                        <p class="text-muted">FastAdmin提供强大的扩展中心，可直接在线安装和卸载插件，同时支持命令行一键操作</p>
-                                    </div>
-                                </div>
+                                <div class="more_2"><a href="{$Think.HZ}/a/zixun/2016/0927/10.html">了解详细</a></div>
                             </div>
+                            <div class="list_img"><a href="{$Think.HZ}/a/zixun/2016/0927/10.html"><img src="{$Think.HZ}/picture/1-16092g553050-l.jpg"></a></div>
                         </div>
+                        <!-- item-end -->
+                        <div class="list_item">
+                            <div class="list_text">
+                                <p class="time_1">2016-09-27</p>
+                                <a href="{$Think.HZ}/a/zixun/2016/0927/9.html">
+                                    <p class="list_title">春季联名款全面呈现</p>
+                                </a>
+                                <div class="list_brief">
+                                    <p>Vans Liberty 2015 年春季联名款已全面呈现，此次Liberty 和Vans 的春季联名更加迎合季节特点，此次系列依然用了Vans的经典鞋型Era、Authentic和Slip-On 作为蓝本打造，搭配出四双鞋款，其中两双...
+                                </div>
+                                <div class="more_2"><a href="{$Think.HZ}/a/zixun/2016/0927/9.html">了解详细</a></div>
+                            </div>
+                            <div class="list_img"><a href="{$Think.HZ}/a/zixun/2016/0927/9.html"><img src="{$Think.HZ}/picture/1-16092g54z20-l.jpg"></a></div>
+                        </div>
+                        <!-- item-end -->
                     </div>
+                    <div class="btn_2"><a href="{$Think.HZ}/a/zixun/">查看更多</a></div>
                 </div>
+                <!-- section2结束 -->
             </div>
-        </section>
-
-        <section class="cta">
-            <div class="cta-content">
-                <div class="container">
-                    <h2>不要犹豫<br>开始行动</h2>
-                    <a href="http://doc.fastadmin.net/docs/contributing.html" class="btn btn-outline btn-xl page-scroll">为FastAdmin贡献代码!</a>
-                </div>
-            </div>
-            <div class="overlay"></div>
-        </section>
-
-        <footer>
-            <div class="container">
-                <p>&copy; 2017 FastAdmin. All Rights Reserved.</p>
-                <ul class="list-inline">
-                    <li>
-                        <a href="https://gitee.com/karsonzhang/fastadmin">码云</a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/karsonzhang/fastadmin">Github</a>
-                    </li>
-                    <li>
-                        <a href="http://shang.qq.com/wpa/qunwpa?idkey=46c326e570d0f97cfae1f8257ae82322192ec8841c79b2136446df0b3b62028c">QQ群</a>
-                    </li>
-                </ul>
-            </div>
-        </footer>
-
-        <!-- jQuery -->
-        <script src="//cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
-
-        <!-- Bootstrap Core JavaScript -->
-        <script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-        <!-- Plugin JavaScript -->
-        <script src="//cdn.bootcss.com/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-
-        <script>
-            $(function () {
-                $(window).on("scroll", function () {
-                    $("#mainNav").toggleClass("affix", $(window).height() - $(window).scrollTop() <= 50);
-                });
-
-
-                //发送版本统计信息
-                try {
-                    var installed = localStorage.getItem("installed");
-                    console.log(installed);
-                    if (!installed) {
-                        $.ajax({
-                            url: "{$Think.config.fastadmin.api_url}/statistics/installed",
-                            data: {
-                                version: "{:config('fastadmin.version')}",
-                                os: "{$Think.PHP_OS}",
-                                sapi: "{$Think.PHP_SAPI}",
-                                tpversion: "{$Think.THINK_VERSION}",
-                                phpversion: "{$Think.PHP_VERSION}",
-                                software: "{$Request.server.SERVER_SOFTWARE}",
-                                url: location.href,
-                            },
-                            dataType: 'jsonp',
-                        });
-                        localStorage.setItem("installed", true);
-                    }
-                } catch (e) {
-
-                }
-
-            });
-        </script>
-
-        <script>
-            var _hmt = _hmt || [];
-            (function () {
-                var hm = document.createElement("script");
-                hm.src = "https://hm.baidu.com/hm.js?f8d0a8c400404989e195270b0bbf060a";
-                var s = document.getElementsByTagName("script")[0];
-                s.parentNode.insertBefore(hm, s);
-            })();
-        </script>
-
+        </div>
+    <!--引入尾部start-->
+        {include file="public/footer" /}
+    <!--引入尾部end-->
     </body>
-
 </html>

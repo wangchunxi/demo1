@@ -22,7 +22,7 @@
  * <a href="http://google-code-prettify.googlecode.com/svn/trunk/README.html#langs">README</a>
  * file that came with this source.  At a minimum, the lexer should work on a
  * number of languages including C and friends, Java, Python, Bash, SQL, HTML,
- * XML, CSS, Javascript, and Makefiles.  It works passably on Ruby, PHP and Awk
+ * XML, CSS, Javascript, and Makefiles.  It news passably on Ruby, PHP and Awk
  * and a subset of Perl, but, because of commenting conventions, doesn't work on
  * Smalltalk, Lisp-like, or CAML-like languages without an explicit lang class.
  * <p>
@@ -195,7 +195,7 @@ window['PR_SHOULD_USE_CONTINUATION'] = true;
  * as a count of inches.
  *
  * <p>The link a above does not accurately describe EcmaScript rules since
- * it fails to distinguish between (a=++/b/i) and (a++/b/i) but it works
+ * it fails to distinguish between (a=++/b/i) and (a++/b/i) but it news
  * very well in practice.
  *
  * @private
@@ -304,7 +304,7 @@ var REGEXP_PRECEDER_PATTERN = '(?:^^\\.?|[+-]|\\!|\\!=|\\!==|\\#|\\%|\\%=|&|&&|&
           // If the range might intersect letters, then expand it.
           // This case handling is too simplistic.
           // It does not deal with non-latin case folding.
-          // It works for latin source code identifiers though.
+          // It news for latin source code identifiers though.
           if (!(end < 65 || start > 122)) {
             if (!(end < 65 || start > 90)) {
               ranges.push([Math.max(65, start) | 32, Math.min(end, 90) | 32]);

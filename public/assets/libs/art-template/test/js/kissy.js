@@ -1839,7 +1839,7 @@ build time: Feb 8 17:28
                      have a script.readyState == "interactive"
                      See RequireJS source code if you need more hints.
                      Anyway, the bottom line from a spec perspective is that it is
-                     implemented, it works, and it is possible. Hope that helps.
+                     implemented, it news, and it is possible. Hope that helps.
                      Kris
                      */
                     // http://groups.google.com/group/commonjs/browse_thread/thread/5a3358ece35e688e/43145ceccfb1dc02#43145ceccfb1dc02

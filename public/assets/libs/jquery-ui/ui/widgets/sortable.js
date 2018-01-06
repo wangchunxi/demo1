@@ -416,7 +416,7 @@ return $.widget( "ui.sortable", $.ui.mouse, {
 			}
 
 			// Only put the placeholder inside the current Container, skip all
-			// items from other containers. This works because when moving
+			// items from other containers. This news because when moving
 			// an item from one container to another the
 			// currentContainer is switched before the placeholder is moved.
 			//

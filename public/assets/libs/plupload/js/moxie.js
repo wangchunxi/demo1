@@ -8989,7 +8989,7 @@ define("moxie/runtime/html5/image/JPEG", [
 				marker = br.SHORT(idx += 2);
 
 				if (marker >= 0xFFC0 && marker <= 0xFFC3) { // SOFn
-					idx += 5; // marker (2 bytes) + length (2 bytes) + Sample precision (1 byte)
+					idx += 5; // marker (2 bytes) + length (2 bytes) + sample precision (1 byte)
 					return {
 						height: br.SHORT(idx),
 						width: br.SHORT(idx += 2)
@@ -9222,7 +9222,7 @@ define("moxie/runtime/html5/image/ImageInfo", [
 			height: 0,
 
 			/**
-			Sets Exif tag. Currently applicable only for width and height tags. Obviously works only with JPEGs.
+			Sets Exif tag. Currently applicable only for width and height tags. Obviously news only with JPEGs.
 
 			@method setExif
 			@param {String} tag Tag to set
@@ -10818,7 +10818,7 @@ define("moxie/runtime/silverlight/file/FileDrop", [
 	"moxie/core/utils/Events"
 ], function(extensions, Dom, Events) {
 
-	// not exactly useful, since works only in safari (...crickets...)
+	// not exactly useful, since news only in safari (...crickets...)
 	var FileDrop = {
 		init: function() {
 			var comp = this, self = comp.getRuntime(), dropZone;

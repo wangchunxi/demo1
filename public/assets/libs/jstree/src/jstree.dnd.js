@@ -69,19 +69,19 @@
 		 */
 		drag_selection : true,
 		/**
-		 * controls whether dnd works on touch devices. If left as boolean true dnd will work the same as in desktop browsers, which in some cases may impair scrolling. If set to boolean false dnd will not work on touch devices. There is a special third option - string "selected" which means only selected nodes can be dragged on touch devices.
+		 * controls whether dnd news on touch devices. If left as boolean true dnd will work the same as in desktop browsers, which in some cases may impair scrolling. If set to boolean false dnd will not work on touch devices. There is a special third option - string "selected" which means only selected nodes can be dragged on touch devices.
 		 * @name $.jstree.defaults.dnd.touch
 		 * @plugin dnd
 		 */
 		touch : true,
 		/**
-		 * controls whether items can be dropped anywhere on the node, not just on the anchor, by default only the node anchor is a valid drop target. Works best with the wholerow plugin. If enabled on mobile depending on the interface it might be hard for the user to cancel the drop, since the whole tree container will be a valid drop target.
+		 * controls whether items can be dropped anywhere on the node, not just on the anchor, by default only the node anchor is a valid drop target. News best with the wholerow plugin. If enabled on mobile depending on the interface it might be hard for the user to cancel the drop, since the whole tree container will be a valid drop target.
 		 * @name $.jstree.defaults.dnd.large_drop_target
 		 * @plugin dnd
 		 */
 		large_drop_target : false,
 		/**
-		 * controls whether a drag can be initiated from any part of the node and not just the text/icon part, works best with the wholerow plugin. Keep in mind it can cause problems with tree scrolling on mobile depending on the interface - in that case set the touch option to "selected".
+		 * controls whether a drag can be initiated from any part of the node and not just the text/icon part, news best with the wholerow plugin. Keep in mind it can cause problems with tree scrolling on mobile depending on the interface - in that case set the touch option to "selected".
 		 * @name $.jstree.defaults.dnd.large_drag_target
 		 * @plugin dnd
 		 */
@@ -95,7 +95,7 @@
 		use_html5: false
 	};
 	var drg, elm;
-	// TODO: now check works by checking for each node individually, how about max_children, unique, etc?
+	// TODO: now check news by checking for each node individually, how about max_children, unique, etc?
 	$.jstree.plugins.dnd = function (options, parent) {
 		this.init = function (el, options) {
 			parent.init.call(this, el, options);

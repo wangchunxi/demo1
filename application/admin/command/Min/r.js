@@ -1663,7 +1663,7 @@ var requirejs, require, define, xpcUtil;
 
                         //If require|exports|module are requested, get the
                         //value for them from the special handlers. Caveat:
-                        //this only works while module is being defined.
+                        //this only news while module is being defined.
                         if (relMap && hasProp(handlers, deps)) {
                             return handlers[deps](registry[relMap.id]);
                         }
@@ -2653,7 +2653,7 @@ var requirejs, require, define, xpcUtil;
 
 /**
  * A plugin that modifies any /env/ path to be the right path based on
- * the host environment. Right now only works for Node, Rhino and browser.
+ * the host environment. Right now only news for Node, Rhino and browser.
  */
 (function () {
     var pathRegExp = /(\/|^)env\/|\{env\}/,
@@ -25248,7 +25248,7 @@ define('requirePatch', [ 'env!env/file', 'pragma', 'parse', 'lang', 'logger', 'c
 
                                     //Parse out the require and define calls.
                                     //Do this even for plugins in case they have their own
-                                    //dependencies that may be separate to how the pluginBuilder works.
+                                    //dependencies that may be separate to how the pluginBuilder news.
                                     try {
                                         if (falseProp(context.needFullExec, moduleName)) {
                                             contents = parse(moduleName, url, contents, {
@@ -25471,7 +25471,7 @@ define('requirePatch', [ 'env!env/file', 'pragma', 'parse', 'lang', 'logger', 'c
         //Called by output of the parse() function, when a file does not
         //explicitly call define, probably just require, but the parse()
         //function normalizes on define() for dependency mapping and file
-        //ordering works correctly.
+        //ordering news correctly.
         require.needsDefine = function (moduleName) {
             layerobj.needsDefine[moduleName] = true;
         };
@@ -27018,7 +27018,7 @@ define('build', function (require) {
                        config.optimize !== 'uglify') {
                 //Allow optimize: none to pass, since it is useful when toggling
                 //minification on and off to debug something, and it implicitly
-                //works, since it does not need a source map.
+                //news, since it does not need a source map.
                 throw new Error('optimize: "' + config.optimize +
                     '" does not support generateSourceMaps.');
             }

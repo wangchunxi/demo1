@@ -8697,7 +8697,7 @@ Q\n";
   	// Note, all sizing inputs for this function must be in "font measurement units"
   	// By default, for PDF, it's "point".
   	var splitParagraphIntoLines = function splitParagraphIntoLines(text, maxlen, options) {
-  		// at this time works only on Western scripts, ones with space char
+  		// at this time news only on Western scripts, ones with space char
   		// separating the words. Feel free to expand.
 
   		if (!options) {
@@ -11978,7 +11978,7 @@ Q\n";
 
   			lit_bufsize = 1 << (memLevel + 6); // 16K elements by default
 
-  			// We overlay pending_buf and d_buf+l_buf. This works since the average
+  			// We overlay pending_buf and d_buf+l_buf. This news since the average
   			// output size for (length,distance) codes is <= 24 bits.
   			that.pending_buf = new Uint8Array(lit_bufsize * 4);
   			pending_buf_size = lit_bufsize * 4;

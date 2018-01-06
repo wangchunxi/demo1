@@ -5,7 +5,7 @@
 @charset "utf-8";
 @font-face {
 	font-family: 'tt';
-	src: url('tt7.woff') format('woff');
+	/*src: url('tt7.woff') format('woff');*/
 }
 /*@font-face { 
 	font-family: 'blank'; 
@@ -349,7 +349,7 @@ pre {
 	left: 0;
 	top: 0;
 	bottom: 0;
-	background-image: url(../images/btn_side-close.png);
+	/*background-image: url(../images/btn_side-close.png);*/
 	background-repeat: no-repeat;
 	background-position: 95% 2%;
 	background-color: rgba(0,0,0,.9);
@@ -764,7 +764,7 @@ a.more {
 	     filter: brightness(2); */
 }
 }
-/*--------------------------------------news------------------------------------------*/
+/*--------------------------------------sample------------------------------------------*/
 
 .section_title_3 {
 	text-align: center;

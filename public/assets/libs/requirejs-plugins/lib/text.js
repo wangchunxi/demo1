@@ -119,7 +119,7 @@ define(['module'], function (module) {
         xdRegExp: /^((\w+)\:)?\/\/([^\/\\]+)/,
 
         /**
-         * Is an URL on another domain. Only works for browser use, returns
+         * Is an URL on another domain. Only news for browser use, returns
          * false in non-browser environments. Only used to know if an
          * optimized .js version of a text resource should be loaded
          * instead.

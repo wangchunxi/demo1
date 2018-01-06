@@ -261,7 +261,7 @@ CREATE TABLE `fa_category` (
 -- Records of fa_category
 -- ----------------------------
 BEGIN;
-INSERT INTO `fa_category` VALUES (1, 0, 'page', '官方新闻', 'news', 'recommend', '/assets/img/qrcode.png', '', '', 'news', 1495262190, 1495262190, 1, 'normal');
+INSERT INTO `fa_category` VALUES (1, 0, 'page', '官方新闻', 'sample', 'recommend', '/assets/img/qrcode.png', '', '', 'sample', 1495262190, 1495262190, 1, 'normal');
 INSERT INTO `fa_category` VALUES (2, 0, 'page', '移动应用', 'mobileapp', 'hot', '/assets/img/qrcode.png', '', '', 'mobileapp', 1495262244, 1495262244, 2, 'normal');
 INSERT INTO `fa_category` VALUES (3, 2, 'page', '微信公众号', 'wechatpublic', 'index', '/assets/img/qrcode.png', '', '', 'wechatpublic', 1495262288, 1495262288, 3, 'normal');
 INSERT INTO `fa_category` VALUES (4, 2, 'page', 'Android开发', 'android', 'recommend', '/assets/img/qrcode.png', '', '', 'android', 1495262317, 1495262317, 4, 'normal');

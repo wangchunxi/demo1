@@ -36,7 +36,7 @@ interface JQueryAjaxSettings {
      */
     beforeSend? (jqXHR: JQueryXHR, settings: JQueryAjaxSettings): any;
     /**
-     * If set to false, it will force requested pages not to be cached by the browser. Note: Setting cache to false will only work correctly with HEAD and GET requests. It works by appending "_={timestamp}" to the GET parameters. The parameter is not needed for other types of requests, except in IE8 when a POST is made to a URL that has already been requested by a GET.
+     * If set to false, it will force requested pages not to be cached by the browser. Note: Setting cache to false will only work correctly with HEAD and GET requests. It news by appending "_={timestamp}" to the GET parameters. The parameter is not needed for other types of requests, except in IE8 when a POST is made to a URL that has already been requested by a GET.
      */
     cache?: boolean;
     /**
@@ -1147,7 +1147,7 @@ interface JQueryStatic {
     type(obj: any): string;
 
     /**
-     * Sorts an array of DOM elements, in place, with the duplicates removed. Note that this only works on arrays of DOM elements, not strings or numbers.
+     * Sorts an array of DOM elements, in place, with the duplicates removed. Note that this only news on arrays of DOM elements, not strings or numbers.
      * 
      * @param array The Array of DOM elements.
      */
