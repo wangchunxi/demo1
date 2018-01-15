@@ -110,6 +110,7 @@ return [
     '%d year%s ago'                                         => '%d年前',
     'Set to normal'                                         => '设为正常',
     'Set to hidden'                                         => '设为隐藏',
+    'Upload to local'                                       => '上传到本地',
     //提示
     'Operation completed'                                   => '操作成功!',
     'Operation failed'                                      => '操作失败!',
@@ -131,6 +132,9 @@ return [
     'You can choose up to %d file%s'                        => '你最多还可以选择%d个文件',
     'An unexpected error occurred'                          => '发生了一个意外错误,程序猿正在紧急处理中',
     'This page will be re-directed in %s seconds'           => '页面将在 %s 秒后自动跳转',
+    'Missing or adding people'                              => '缺少添加人或修改人',
+    'Did not get the picture id'                            => '未获取到图片id',
+    'Missing title'                                         => '缺少标题',
     //菜单
     'Dashboard'                                             => '控制台',
     'General'                                               => '常规管理',

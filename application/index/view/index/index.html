@@ -5,12 +5,10 @@
     <!--引入头部end-->
     <body>
         <!-- 幻灯片开始 -->
-        <div class="slider"> 
-            <div class="item" style="background-image: url({$Think.HZ}/images/1-16092g515190-l.jpg)"><a href="{$Think.HZ}/javascript:;"></a></div>
-            <div class="item" style="background-image: url({$Think.HZ}/images/1-16092g514590-l.jpg)"><a href="{$Think.HZ}/javascript:;"></a></div>
-            <div class="item" style="background-image: url({$Think.HZ}/images/1-16092g514380-l.jpg)"><a href="{$Think.HZ}/javascript:;"></a></div>
-            <div class="item" style="background-image: url({$Think.HZ}/images/1-16092g514190-l.jpg)"><a href="{$Think.HZ}/javascript:;"></a></div>
-            <div class="item" style="background-image: url({$Think.HZ}/images/1-16092g513550-l.jpg)"><a href="{$Think.HZ}/javascript:;"></a></div>
+        <div class="slider">
+            {volist name="bannaArray" id="vo"}
+            <div class="item" style="background-image: url({$vo['fullurl']})"><a href="javascript:;"></a></div>
+            {/volist}
         </div>
         <!-- 幻灯片结束 -->
         <!--引入菜单 start-->

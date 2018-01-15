@@ -3,6 +3,7 @@
 namespace app\index\controller;
 
 use app\common\controller\Frontend;
+use app\common\library\Banna\Banna;
 
 class Index extends Frontend
 {
@@ -16,6 +17,15 @@ class Index extends Frontend
 
     public function index()
     {
+        /*首页banna*/
+        $banna = new Banna();
+        $bannaArray = $banna->getBanna();
+        $cdnurl = preg_replace("/\/(\w+)\.php$/i", '', $this->request->root());
+        foreach ($bannaArray as &$value){
+            $value['fullurl'] = ($value['storage'] == 'local' ? $cdnurl : $this->view->config['upload']['cdnurl']) . $value['url'];
+        }
+        /*bannaEnd*/
+        $this->assign('bannaArray',$bannaArray);
         return $this->view->fetch();
     }
 

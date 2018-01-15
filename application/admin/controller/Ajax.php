@@ -109,9 +109,11 @@ class Ajax extends Backend
             $attachment = model("attachment");
             $attachment->data(array_filter($params));
             $attachment->save();
+            $imgId = db()->getLastInsID();
             \think\Hook::listen("upload_after", $attachment);
             $this->success('上传成功', null, [
-                'url' => $uploadDir . $splInfo->getSaveName()
+                'url' => $uploadDir . $splInfo->getSaveName(),
+                'imgId'=>$imgId
             ]);
         }
         else

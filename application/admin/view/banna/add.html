@@ -1,0 +1,43 @@
+<form id="add-form" action="{:Url('update')}" class="form-horizontal form-ajax" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label for="c-local" class="control-label col-xs-12 col-sm-2">{:__('title')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input type="text" name="title"  class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-local" class="control-label col-xs-12 col-sm-2">{:__('sort')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input type="text" name="sort" id="" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-local" class="control-label col-xs-12 col-sm-2">{:__('Upload')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input type="text" name="Url" id="c-local" class="form-control" />
+        </div>
+    </div>
+
+    <div class="form-group" style="display: none">
+        <label for="c-local" class="control-label col-xs-12 col-sm-2">{:__('Upload')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input type="text" name="attachmentId" id="c-local-id" class="form-control" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="c-local" class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button id="plupload-local" class="btn btn-primary plupload" data-input-id="c-local" data-url="{:url('ajax/upload')}"><i class="fa fa-upload"></i> {:__("Upload to local")}</button>
+        </div>
+    </div>
+    <div class="form-group hidden layer-footer">
+        <div class="col-xs-2"></div>
+        <div class="col-xs-12 col-sm-8">
+            <button  style="margin-right: 20px;" type="submit" class="btn btn-default btn-embossed">{:__('Submit')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+
+</form>

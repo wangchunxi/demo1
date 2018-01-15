@@ -93,6 +93,7 @@ class Rule extends Backend
             $this->error(__('No Results were found'));
         if ($this->request->isPost())
         {
+
             $params = $this->request->post("row/a", [], 'strip_tags');
             if ($params)
             {

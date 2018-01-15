@@ -51,11 +51,14 @@ define(['jquery', 'bootstrap', 'plupload', 'template'], function ($, undefined, 
                     if (input_id) {
                         var urlArr = [];
                         var inputObj = $("#" + input_id);
+                        var inputObjId = $("#" + input_id+"-id");
                         if ($(button).data("multiple") && inputObj.val() !== "") {
                             urlArr.push(inputObj.val());
                         }
                         urlArr.push(data.url);
+                        console.log(data);console.log(urlArr);
                         inputObj.val(urlArr.join(",")).trigger("change");
+                        inputObjId.val(data.imgId);
                     }
                     //如果有回调函数
                     var onDomUploadSuccess = $(button).data("upload-success");
